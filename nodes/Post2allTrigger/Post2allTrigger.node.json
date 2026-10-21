@@ -1,0 +1,10 @@
+{
+	"node": "n8n-nodes-post2all.post2allTrigger",
+	"nodeVersion": "1.0",
+	"codexVersion": "1.0",
+	"categories": ["Marketing & Content"],
+	"resources": {
+		"credentialDocumentation": [{ "url": "https://www.post2all.com/docs/webhooks" }],
+		"primaryDocumentation": [{ "url": "https://www.post2all.com/docs/webhooks" }]
+	}
+}
